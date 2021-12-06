@@ -1,7 +1,4 @@
-# Ifeoma-https-github.com-Ifeoma-Udacity-programming-for-Data-Science-With-Python-Nanodegree
-
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
-<img src="Images/Programming.jpg" width="1000">
 
 # Created by Ifeoma Ikem
 
@@ -19,7 +16,7 @@ For the presentation component, the student had to create four slides, and each 
 ### Question Sets
 
 A set of questions have also been provided by Udacity so that we were free to consider and include them in our Project Submission.
-https://github.com/bilaudaud/Ifeoma-https-github.com-Ifeoma-Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/main/SQL%20Projects/SQL%20Project/All%20Queries.txt
+[Check this out] (https://github.com/bilaudaud/Ifeoma-https-github.com-Ifeoma-Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/main/SQL%20Projects/SQL%20Project/All%20Queries.txt)
 
 ## Python Project
 
